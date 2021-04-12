@@ -28,3 +28,5 @@ Note: If you want run in background
 python3 main.py > pid.txt 2>&1 & 
 ```
 *Jobs can be accessed with the `jobs` command. jobs will show you the running jobs, and number them. You could then talk about the jobs using a `%` followed by the number like `kill %1` or so.*
+
+# Don't give me credit for this, it's not mine
