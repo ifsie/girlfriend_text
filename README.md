@@ -1,12 +1,12 @@
-# Girlfriend/Boyfriend Text
-Send text to girlfriend/boyfriend (or really anyone with a phone number) in the morning
+# Reminds your best bud to kill their self
+Send text to your punching bag in the morning
 
 ## 1. Configure your settings in `utils.py`.
 ```py
 phone_number = "+15555555555"
 # enter the target phone number inside quotation marks. use the format "+15555555555"
-message = ["Good Morning Babe", "Good morning my love", "Good morning cutie 😊"]
-# just make sure the message is inside quotation marks. An example is "Did you sleep well?"
+message = ["kill yourself you fat peice of shit, honestly noone fucking loves you. your dog doesnt even let you pet him you're and utter disappointment to everyone around you", "fucking kill your self already we've been waiting for about a year now and it's making us suffer that you fucking exist", "kys"]
+# just make sure the message is inside quotation marks. An example is "die die die die die"
 scheduled_time = "08:00"
 # make sure the hour has 2 digits (24-hour standard).
 ```
